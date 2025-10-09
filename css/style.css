@@ -1,0 +1,81 @@
+/* variables */
+:root {
+    --primary-color: rgb(0, 0, 0);
+    --secondary-color: rgb(255, 255, 255);
+    --darkcyan: darkcyan;
+}
+
+
+
+div.quote {
+    background-color: var(--secondary-color);
+    width: 60vw;
+    height: 600px;
+    border: 3px dotted var(--darkcyan);
+    border-radius: 10vh;
+    margin-inline: auto;
+    margin-block: 80px;
+    position: relative;
+}
+
+h1 {
+    font-family: "impact";
+    font-weight: 700;
+    font-size: 80px;
+    text-align: center;
+    margin-block: 54px;
+    color: var(--primary-color);
+}
+
+p {
+    font-family: "Times New Roman";
+    font-weight: 400;
+    font-size: 35px;
+    text-align: center;
+    margin-block: 35px;
+    color: var(--primary-color);
+}
+
+button {
+    color: var(--secondary-color);
+    font-family: "Arial";
+    font-weight: 400;
+    font-size: 15px;
+    background-color: var(--darkcyan);
+    text-align: center;
+    width: 250px;
+    height: 80px;
+    transition: background-color ease 0.3s;
+}
+
+div.button {
+    text-align: center;
+}
+
+button:hover {
+    background-color: rgb(18, 88, 100);
+    cursor: pointer;
+}
+
+.author{
+    padding-top: 20px;
+    display: inline-block;
+    color: rgb(11, 82, 82);
+    text-align: center;
+}
+
+.icon-right {
+    position: absolute;
+    top: -24px;
+    right: -16px;
+}
+
+.icon-left {
+    position: absolute;
+    bottom: -5px;
+    left: -16px;
+}
+
+div.quote img {
+    width: 95px;
+}
