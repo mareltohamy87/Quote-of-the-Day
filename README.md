@@ -3,7 +3,7 @@ This project focuses on practicing JavaScript fundamentals, DOM manipulation, an
 
 🚀 Live Demo
 
-🔗 (Add your live demo link here)
+🔗 (https://mareltohamy87.github.io/Quote-of-the-Day/)
 
 🛠️ Technologies Used
 
@@ -70,7 +70,7 @@ Dark mode support
 Mariam El Tohamy
 Frontend Developer
 
-🔗 GitHub: (your GitHub link)
-🔗 LinkedIn: (your LinkedIn link)
+🔗 GitHub:(https://github.com/mareltohamy87)
+🔗 LinkedIn:(https://www.linkedin.com/in/mariam-mohamed-el-tohamy-bb7606398/)
 
 ⭐ If you like this project, don’t forget to give it a star!
