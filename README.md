@@ -54,17 +54,6 @@ Quote-of-the-Day/
 
 <img width="1829" height="754" alt="quote-of-the-day" src="https://github.com/user-attachments/assets/6d099a09-d85d-4fd1-bc6d-8f72e185237b" />
 
-
-📈 Future Improvements
-
-Prevent repeating the same quote consecutively
-
-Add more quotes dynamically (API integration)
-
-Add animations when switching quotes
-
-Dark mode support
-
 👩‍💻 Author
 
 Mariam El Tohamy
